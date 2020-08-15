@@ -2,7 +2,7 @@
 
 Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 
-## Who Am I?
+## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web Development 
@@ -10,9 +10,9 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 - 🎯 Goal : To be MERN Developer 
 - Fun Fact : 
     - I read , read & read 😅
-    - I'm foodie also 🍟
+    - I'm foodie panda 🐼
 
-## My Weapons
+## My Weapons 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs)](https://github.com/tidbitsjs/github-readme-stats)
 
