@@ -16,7 +16,7 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs)](https://github.com/tidbitsjs/github-readme-stats)
 
-#### Other Shields 🛡
+## Other Shields 🛡
  * C/C++
  * Python
  * React Native
@@ -34,7 +34,7 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 <a href="https://www.instagram.com/tidbits.js">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<a href="https://www.linkedin.com/in/timoliverau/">
+<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 
 </p>
