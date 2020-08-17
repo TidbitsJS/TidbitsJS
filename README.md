@@ -10,7 +10,7 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 - 🎯 Goal : To be MERN Developer 
 - 💌 Fun Facts : 
     - I read , read & read 😅
-    - I'm foodie panda 🐼
+    - Being foodie panda 🐼
 
 ## My Weapons 🌟
 
