@@ -28,7 +28,7 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 
 <p align="center">
  
-<a href="https://twitter.com/im_Sujata25">
+<a href="https://twitter.com/TidbitsJS">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
 <a href="https://www.instagram.com/tidbits.js">
