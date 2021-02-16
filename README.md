@@ -22,7 +22,13 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
  * React Native
  * Knowledge of ML 
 
- <br /> 
+ <br />
+ 
+## Github Status 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=dark" width="48%" >
+<br>
 
 <p align="center">Wanna Know me More?</p>
 
@@ -35,6 +41,8 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
 <a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
 </p>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
