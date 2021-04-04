@@ -30,6 +30,9 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=dark" width="48%" >
 <br>
 
+![github graph](https://activity-graph.herokuapp.com/graph?username=TidbitsJS&theme=react-dark)
+<br>
+
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
