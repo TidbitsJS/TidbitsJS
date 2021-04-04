@@ -14,7 +14,7 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
 
 ## Other Shields 🛡
  * C/C++
@@ -26,8 +26,8 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
 <br>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=TidbitsJS&theme=react-dark)
