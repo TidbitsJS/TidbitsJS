@@ -11,6 +11,7 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 - 💌 Fun Facts : 
     - I read , read & read 😅
     - Being foodie panda 🐼
+    - Ben Tidbits, sen? ( Ahh, Learning Turkish out of curiosity )
 
 ## My Weapons 🌟
 
