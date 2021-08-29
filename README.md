@@ -46,6 +46,9 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 
 <a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+    
+<a href="https://tidbitsjs.medium.com/">
+<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
 
 </p>
 
