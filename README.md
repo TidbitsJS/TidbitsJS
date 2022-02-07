@@ -5,22 +5,23 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Web Development 
-- 📝 Writing Words , Writing Code
-- 🎯 Goal : To be MERN Developer 
+- 👩‍💻 Working on Web & App Development 
+- 📝 Writing Words, Coding Code
+- 🎯 Goal : To be a better Developer 
 - 💌 Fun Facts : 
-    - I read , read & read 😅
-    - Being foodie panda 🐼
-    - Ben Tidbits, sen? ( Ahh, Learning Turkish out of curiosity )
+    - Overthinking thinking 🙂
+    - Foodie who can't cook 🐼 
+    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity )
 
 ## My Weapons 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
 
 ## Other Shields 🛡
+ * React Native
+ * CSS Frameworks 
  * C/C++
  * Python
- * React Native
  * Knowledge of ML 
 
  <br />
