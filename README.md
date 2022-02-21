@@ -6,12 +6,12 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web & App Development 
-- 📝 Writing Words, Coding Code
+- 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 💌 Fun Facts : 
-    - Overthinking thinking 🙂
-    - Foodie who can't cook 🐼 
-    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity )
+    - Loves food but can't' cook 🐼 
+    - Overthinks thinking to not to overthink 🙂
+    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
     
 <br>
 
@@ -67,16 +67,16 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 
 <p align="center">
  
-<a href="https://twitter.com/TidbitsJS">
+<a href="https://twitter.com/TidbitsJS" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
-<a href="https://www.instagram.com/tidbits.js">
+<a href="https://www.instagram.com/tidbits.js" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
+<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
     
-<a href="https://tidbitsjs.medium.com/">
+<a href="https://tidbitsjs.medium.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
 
 </p>
