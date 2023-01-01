@@ -8,11 +8,12 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
+- 📫 How to reach me : [sujata@jsmastery.pro](mailto:sujata@jsmastery.pro)
 - 💌 Fun Facts : 
     - Loves food but can't' cook 🐼 
     - Overthinks thinking to not to overthink 🙂
     - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
-    
+
 <br>
 
 ## My Weapons 🌟
