@@ -57,11 +57,11 @@ Nice to meet you, I'm Sujata Gunale aka TidbitsJS
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=tidbitsjs&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
 <br>
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=TidbitsJS&theme=react-dark)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=TidbitsJS&theme=react-dark)
 <br>
 
 <p align="center">Wanna Know me More?</p>
